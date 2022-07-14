@@ -1,0 +1,146 @@
+{
+ "basics": {
+     "name": "Akash parley",
+     "label": "Student",
+     "picture": "",
+     "email": "2021kuec2062@iiitkota.ac.in",
+     "phone": "+919528799931",
+     "website": "",
+     "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communication. ",
+     "location": {
+         "address": "Dehradun",
+         "postalCode": "248001",
+         "city": "Dehradun",
+         "countryCode": " India",
+         "region": "Uttrakhand"
+     },
+     "profiles": [
+         {
+             "network": "",
+             "username": "",
+             "url": ""
+         },
+         {
+             "network": "",
+             "username": "",
+             "url": ""
+         },
+         {
+             "network": "",
+             "username": "",
+             "url": ""
+         },
+         {
+             "network": "Instagram",
+             "username": "iakashparle",
+             "url": "https://instagram.com/iakashparle"
+         }
+     ]
+ },
+ "work": [
+     {
+         "company": "",
+         "position": "",
+         "website": "",
+         "startDate": "",
+         "endDate": "",
+         "summary": ""
+     },
+     {
+         "company": "",
+         "position": "",
+         "website": "",
+         "startDate": "",
+         "endDate": "",
+         "summary": ""
+     },
+     {
+         "company": "",
+         "position": "",
+         "website": "",
+         "startDate": "",
+         "endDate": "",
+         "summary": ""
+     }
+ ],
+ "education": [
+     {
+         "institution": "Indian Institute of Information Technology,Kota",
+         "area": "Engineering",
+         "studyType": "Bachelor (hons)",
+         "startDate": "",
+         "endDate": "",
+         "gpa": "8.2",
+         "courses": [
+             "Electronics and Communication Engineering"
+         ]
+     }
+ ],
+ "awards": [
+     {
+         "title": "",
+         "awarder": "",
+         "date": ""
+     }
+ ],
+ "publications": [
+     {
+         "title": "",
+         "details": "",
+         "link": ""
+     },
+     {
+         "title": "",
+         "details": "",
+         "link": ""
+     },
+     {
+         "title": "",
+         "details": "",
+         "link": ""
+     }
+ ],
+ "skills": [
+     {
+         "name": "programming",
+         "level": "beginner",
+         "keywords": [
+             "HTML",
+             "CSS",
+             "C",
+             "C++"
+         ]
+     }
+ ],
+ "languages": [
+     {
+         "language": "English",
+         "fluency": "Native speaker"
+     }
+ ],
+ "interests": [
+     {
+         "name": "Singing",
+         "keywords": [
+             "Guitar"
+         ]
+     },
+     {
+         "name": "Playing",
+         "keywords": [
+             "Cricket",
+             "Badminton"
+         ]
+     }
+ ]
+}
+
+
+
+
+
+
+
+
+
+]
